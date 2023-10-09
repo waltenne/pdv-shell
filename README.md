@@ -55,7 +55,7 @@ Será necessário a instalação dos sequites pacotes no Sistem Operacional.
 
 ## Estrutura do Projeto
 
-O projetoi foi estruturado algo "parecido" que temos hoje em linguagens mais avançadas que lembra vagamente de Orientação a Objetos.
+O projeto foi estruturado algo "parecido" que temos hoje em linguagens mais avançadas que lembra vagamente de Orientação a Objetos.
 
 ### Diretório Integration
 
