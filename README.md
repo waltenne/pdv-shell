@@ -131,7 +131,6 @@ Usuario vendedor01
 Senha 12345
 ```
 
-
 # FAQ
 
 ## Como configurar o Envio de Email?
