@@ -12,6 +12,7 @@
 - [FAQ](#faq)
   - [Como configurar o Envio de Email?](#como-configurar-o-envio-de-email)
   - [Como eu faço para mudar o nome do Mercadinho?](#como-eu-faço-para-mudar-o-nome-do-mercadinho)
+- [DEMO](#demo)
 
 
 # Introdução 
@@ -91,7 +92,7 @@ Responsável por guardar os arquivos e ou binários que serão importados pelo s
   - [x] Remover Produtos
   - [x] Consultar Estoque
 - [ ] Sistema Vendas
-  - [?] Validar Existencia de Produtos
+  - [x] Validar Existencia de Produtos
   - [x] Realizar Venda
   - [X] Gerar Invoice
   - [X] Gerar Order JSON
@@ -130,7 +131,6 @@ Usuario vendedor01
 Senha 12345
 ```
 
-
 # FAQ
 
 ## Como configurar o Envio de Email?
@@ -141,3 +141,7 @@ Basta editar o arquivo [email-cfg.json](./resources/email/email-cfg.json), coloc
 
 Basta editar o arquivo [util](./resources/util/util), mudando o conteúdo da variável **store_name**
 
+
+# DEMO
+
+![DEMO](docs/images/pdv-shell.gif)
