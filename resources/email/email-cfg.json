@@ -1,0 +1,6 @@
+{                                 
+    "username": "naoresponder@STORE.com.br",
+    "smtp_host": "INSERT_SMTPHOST_HERE",
+    "username_aut": "INSERT_SMTPUSER_HERE",
+    "password":  "INSERT_PASSWORD_HERE"
+}         
