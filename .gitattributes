@@ -1,11 +1,11 @@
-/resources/email/*.json
-/resources/email/*.sh
-/resources/email/*.html
-/resources/pdv/*.sh
-/resources/report/*.sh
-/resources/sqlite3/*.sh
-/resources/sqlite3/*.db
-/resources/sqlite3/sql/*.sql
-/resources/util/*.sh
-/resources/util/*.go
-/resources/email/*.json
+/resources/email/*.json linguist-vendored=false
+/resources/email/*.sh linguist-vendored=false
+/resources/email/*.html linguist-vendored=false
+/resources/pdv/*.sh linguist-vendored=false
+/resources/report/*.sh linguist-vendored=false
+/resources/sqlite3/*.sh linguist-vendored=false
+/resources/sqlite3/*.db linguist-vendored=false
+/resources/sqlite3/sql/*.sql linguist-vendored=false
+/resources/util/*.sh linguist-vendored=false
+/resources/util/*.go linguist-vendored=false
+/resources/email/*.json linguist-vendored=false
