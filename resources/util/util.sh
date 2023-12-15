@@ -36,10 +36,10 @@ resources_db_database="${resources_db_module}/pdvshell.db"
 resources_util_module="${resources_root_dir}/util"
 resources_invoice_binary="${resources_util_module}/invoice"
 resources_pdv_module="${resources_root_dir}/pdv"
-resources_report_binary="${resources_root_dir}/report/chart"
+resources_report_binary="${resources_root_dir}/report/chart.sh"
 
 resources_email_path="${resources_root_dir}/email"
-resources_email_binary="${resources_root_dir}/email/email"
+resources_email_binary="${resources_root_dir}/email/email.sh"
 resources_email_sendmail="${resources_email_path}/sendEmail"
 resources_email_template="${resources_email_path}/report.html"
 
