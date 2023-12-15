@@ -34,7 +34,7 @@ resources_db_module_sql="${resources_db_module}/sqlite3/sql"
 resources_db_database="${resources_db_module}/pdvshell.db"
 
 resources_util_module="${resources_root_dir}/util"
-resources_invoice_binary="${resources_util_module}/invoice"
+resources_invoice_binary="${resources_util_module}/invoice.go"
 resources_pdv_module="${resources_root_dir}/pdv"
 resources_report_binary="${resources_root_dir}/report/chart.sh"
 

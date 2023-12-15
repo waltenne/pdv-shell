@@ -1,0 +1,11 @@
+/resources/email/*.json
+/resources/email/*.sh
+/resources/email/*.html
+/resources/pdv/*.sh
+/resources/report/*.sh
+/resources/sqlite3/*.sh
+/resources/sqlite3/*.db
+/resources/sqlite3/sql/*.sql
+/resources/util/*.sh
+/resources/util/*.go
+/resources/email/*.json
